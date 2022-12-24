@@ -1,6 +1,6 @@
-<img align="right" alt="Coding" width="400" src="IMG_16.jpg">
+<img align="right" alt="Coding" width="600" src="IMG_16.jpg">
 <h1 align="center">Hi 👋, I'm Sushant Singh, pursuing computer engineering at IOE Purwanchal Campus, Dharan</h1>
-<h3 align="center">Aspirant</h3>
+<h3 align="left">Aspirant</h3>
 
 - 🌱 I’m currently learning **Java**
 
